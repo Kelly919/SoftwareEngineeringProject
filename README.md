@@ -28,6 +28,8 @@ The program allows users to perform basic arithmetic operations such as addition
 4. Run the `Calculator.java` file.
 5. Follow the instructions in the console to enter numbers and select an operation.
 
+## Screenshots of calculator running
+
 
 
 
