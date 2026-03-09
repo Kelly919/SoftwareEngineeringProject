@@ -29,7 +29,17 @@ The program allows users to perform basic arithmetic operations such as addition
 5. Follow the instructions in the console to enter numbers and select an operation.
 
 ## Screenshots of calculator running
+Addition of two numbers:
+https://github.com/Kelly919/SoftwareEngineeringProject/blob/f185bc83774267640f059c4a072db34c68d782fd/Addition%20of%20two%20numbers.png
 
+Subtraction of two numbers:
+https://github.com/Kelly919/SoftwareEngineeringProject/blob/f185bc83774267640f059c4a072db34c68d782fd/Division%20of%20two%20numbers.png
+
+Multiplication of two numbers:
+https://github.com/Kelly919/SoftwareEngineeringProject/blob/f185bc83774267640f059c4a072db34c68d782fd/Multiplication%20of%20two%20numbers.png
+
+Division of two numbers:
+https://github.com/Kelly919/SoftwareEngineeringProject/blob/f185bc83774267640f059c4a072db34c68d782fd/Subtraction%20of%20two%20numbers.png
 
 
 
